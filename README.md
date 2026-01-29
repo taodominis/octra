@@ -126,4 +126,5 @@ Always share your feedback about the week's task in discord
 ---
 ## Wait for next steps
 Stay tuned.
+Upload
 
